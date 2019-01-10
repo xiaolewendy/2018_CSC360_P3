@@ -1,6 +1,6 @@
 /*CSC360 A03 SFS: Part I: diskinfo
  *Student: Xiaole (Wendy) Tan
- *Vnumber: V00868734*/
+ */
 
 //INCLUDES
 #include <stdio.h>
