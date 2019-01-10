@@ -1,6 +1,6 @@
 /*CSC360 A03 SFS: Part IV: diskput
  *Student: Xiaole (Wendy) Tan
- *Vnumber: V00868734*/
+ */
 
 //INCLUDES
 #include <stdio.h>
